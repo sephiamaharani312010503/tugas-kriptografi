@@ -1,3 +1,6 @@
+//Nama : Sephia Maharani NJ
+//Kelas : TI.20.D4
+//NIM : 312010503
 //Deskripsi sembarang berkas dengan
 //algoritma XOR sederhana
 #include <iostream>
